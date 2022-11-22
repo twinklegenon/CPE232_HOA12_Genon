@@ -1,0 +1,11 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED             STATUS                           PORTS     NAMES
+3c82e32c3fc1   hello-world    "/hello"                 42 minutes ago      Exited (0) 42 minutes ago                  adoring_gagarin
+16385b6ed289   861f92e98ed5   "/bin/sh -c 'pyhon3 …"   About an hour ago   Exited (127) About an hour ago             samplerunning
+91c2a66d6abc   ubuntu         "bash"                   2 days ago          Exited (0) 2 days ago                      cranky_turing
+fc8050dbb763   ubuntu         "/bin/bash"              2 days ago          Exited (127) 2 days ago                    peaceful_napier
+c531c1761816   ubuntu         "bash"                   2 days ago          Exited (0) 2 days ago                      trusting_moore
+eb41e47c38f0   ubuntu         "bash"                   2 days ago          Exited (0) 2 days ago                      gifted_greider
+1650f2517460   5752a9d6350c   "/bin/sh -c 'systemc…"   2 days ago          Exited (127) 2 days ago                    gifted_nightingale
+2b8f6f9230c2   5752a9d6350c   "/bin/sh -c 'apt-get…"   2 days ago          Exited (100) 2 days ago                    ecstatic_borg
+10d53a2f87a5   hello-world    "/hello"                 3 days ago          Exited (0) 3 days ago                      goofy_bouman
+512bd942b154   hello-world    "/hello"                 3 days ago          Exited (0) 3 days ago                      heuristic_clarke
